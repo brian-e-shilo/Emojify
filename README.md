@@ -1,10 +1,5 @@
 # Emojify
 
-## Coursera - RNN Programming Assignment
-
-### Disclaimer:
-The given solutions in this project are only for reference purpose.
-
 ### Description of experiment
 
 Welcome! We're going to use word vector representations to build an Emojifier. 🤩 💫 🔥
@@ -48,6 +43,4 @@ By the end of this notebook, you'll be able to:
 (^^^ Emoji for "skills")
 
 ### Acknowledgements
-
-https://www.coursera.org/learn/nlp-sequence-models <br>
-https://www.deeplearning.ai/program/deep-learning-specialization/
+This is an adaptation of the original Emojify project by sushantdhumak(Thank you!)
